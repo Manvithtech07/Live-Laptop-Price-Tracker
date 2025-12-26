@@ -1,0 +1,10 @@
+selenium
+beautifulsoup4
+pandas
+numpy
+matplotlib
+seaborn
+tqdm
+webdriver-manager
+mysql-connector-python
+sqlalchemy
