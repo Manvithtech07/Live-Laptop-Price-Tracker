@@ -1,7 +1,9 @@
 # "Live" Laptop Price Tracker - End-to-End Data Engineering Project
 
 **Project Status:** In Progress 
+
 Phase 1: Web Scraping - Complete
+
 Phase 2: EDA (Pandas) - Complete
 
 ## 1. The Business Problem
