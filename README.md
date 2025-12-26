@@ -1,6 +1,8 @@
 # "Live" Laptop Price Tracker - End-to-End Data Engineering Project
 
-**Project Status:** In Progress (Phase 1: Web Scraping - Complete)
+**Project Status:** In Progress 
+Phase 1: Web Scraping - Complete
+Phase 2: EDA (Pandas) - Complete
 
 ## 1. The Business Problem
 In the volatile electronics market, how do prices and specs for gaming laptops compare? This project builds an automated data pipeline to scrape, store, and visualize Amazon data to answer:
